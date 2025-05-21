@@ -11,7 +11,7 @@
         ],
         [
             "splitkb/halcyon/elora/rev2",
-            "vial_hlc",
+            "mitt_vial_hlc",
             {
                 "HLC_NONE": "1",
                 "TARGET": "splitkb_halcyon_elora_rev2_vial_hlc_mitt"
